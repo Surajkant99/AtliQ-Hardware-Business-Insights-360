@@ -46,3 +46,7 @@ AltiQ hardware is a company which has grown vastly in the recent years, and open
 - India leads with $210.67M net sales and 25.57% RC.
 - Gross Margin: At 36.49% showing slight decline of -1.65%.
 - Net Profit: Currently at -6.63% with significant drop of -676.38%.
+
+## 🔗 Important links:
+
+## 📞 Contact:
