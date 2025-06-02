@@ -1,7 +1,7 @@
 # 📊 AtliQ-Hardware-Business-Insights-360
 This project provides the insights to AtliQ management for analysing the finance, sales, supply chain, executive and marketing over some past years.
 
-## Project Overview
+## 📌 Project Overview
 AtliQ Hardware is growing rapidly in the recent years, and they have decided to implement the data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholder in terms all the aspects like finance, sales, marketing and supply chain.
 
 ## 🏢 Company’s background
