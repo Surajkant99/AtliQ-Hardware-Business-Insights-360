@@ -1,7 +1,7 @@
 # 📊 AtliQ-Hardware-Business-Insights-360
 This project provides the insights to AtliQ management for analysing the finance, sales, supply chain, executive and marketing over some past years.
 
-## 📌 Project Overview
+## 📝 Project Overview
 AtliQ Hardware is growing rapidly in the recent years, and they have decided to implement the data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholder in terms all the aspects like finance, sales, marketing and supply chain.
 
 ## 🏢 Company’s background
@@ -11,7 +11,7 @@ AltiQ hardware is a company which has grown vastly in the recent years, and open
 - Direct
 - Distributors Recently the company has faced a unforeseen loss by opening store in America based on the surveys, intuition and some excel analysis and also the company’s competitors has handful of analytics team to perform analysis and make data driven decision. So, the AltiQ hardware has no other option other than building their analytics team for data driven insights and decisions in the future to survive better in the industry.
 
-## 📝 Business Related Terms
+## 📌 Business Related Terms
 - Gross price
 - Pre-invoice deductions
 - Post-Invoice deductions
@@ -33,7 +33,7 @@ AltiQ hardware is a company which has grown vastly in the recent years, and open
 - DAX language: To create measures.
 - DAX studio: For optimizing the report.
 
-## 📈 Insights:
+## 📈 Insights
 #### 1. Finance View
 - Net sales grew by 207.4%, driven by strong performance in keyboards and laptops category.
 - Profit margins declined by 1.65%, due to rising costs in manufacturing (210.5%) and freight (208.0%).
@@ -53,8 +53,8 @@ AltiQ hardware is a company which has grown vastly in the recent years, and open
 - Gross Margin: At 36.49% showing slight decline of -1.65%.
 - Net Profit: Currently at -6.63% with significant drop of -676.38%.
 
-## 🔗 Important links:
+## 🔗 Important links
 - [Live PowerBI dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDJkZGE0OTktNzQ0OS00YTA2LTlmYWItMmE1MGJhMTM5MDBmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-## 📞 Contact:
+## 📞 Contact
 - [Linkedin](https://www.linkedin.com/in/surajkant9/)
 - [Email](mailto:surajkant264@gmail.com)
