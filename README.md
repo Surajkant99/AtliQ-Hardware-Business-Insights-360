@@ -55,7 +55,8 @@ AltiQ hardware is a company which has grown vastly in the recent years, and open
 
 ## 🔗 Important links
 - [Live PowerBI dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDJkZGE0OTktNzQ0OS00YTA2LTlmYWItMmE1MGJhMTM5MDBmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-## 📞 Contact
+
+## 📞 Contacts
 - [Protfolio](https://codebasics.io/portfolio/Suraj-Kant)
 - [Linkedin](https://www.linkedin.com/in/surajkant9/)
 - [Email](mailto:surajkant264@gmail.com)
