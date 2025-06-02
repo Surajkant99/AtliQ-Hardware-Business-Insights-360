@@ -27,6 +27,12 @@ AltiQ hardware is a company which has grown vastly in the recent years, and open
 - Distributors
 - Consumer
 
+## 💻 Tech Stack
+- PowerBi Desktop: To create visuals from rew data.
+- Excel & Power Query: For data preprocessing.
+- DAX language: To create measures.
+- DAX studio: For optimizing the report.
+
 ## 📈 Insights:
 #### 1. Finance View
 - Net sales grew by 207.4%, driven by strong performance in keyboards and laptops category.
